@@ -1,1 +1,5 @@
 theme: jekyll-theme-architect
+
+layout: default
+comments: true
+# other options
